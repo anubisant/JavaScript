@@ -1,0 +1,1 @@
+//obj.addEventListener('click',fn)
